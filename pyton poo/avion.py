@@ -1,4 +1,6 @@
 class avion:
-    nivel = "internacional"
-    empresa = "pulshet"
+  
+  #repetir esto 6 veces cambiabdo el nombre
+   def avion (self):
+       print()
 
