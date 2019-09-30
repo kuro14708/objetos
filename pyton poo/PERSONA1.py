@@ -1,7 +1,7 @@
 class   persona:
 
     nacionalidad = "colombianio"
-     
+    raza = "humano"
 
     def __init__(self, nombre , edad , cc):
 
